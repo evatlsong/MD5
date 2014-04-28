@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MD5</string>
+    <string name="message">Enter a message</string>
+    <string name="button_md5">MD5</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hash_result"></string>
+
+</resources>
